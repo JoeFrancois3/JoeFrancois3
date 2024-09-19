@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
-
+<h3 align="center">Im a passionate software engineer studying at Sheffield Hallam University</h3>
 
 - 🌱 I’m currently learning **PLC Ladder Logic, SCADA**
 
