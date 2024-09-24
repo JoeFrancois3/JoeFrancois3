@@ -73,7 +73,7 @@
 
   <h5>Word Scramble Game - PHP and MySQL Integration (Coming Soon)</h5>
   My next task is to implement backend features in order to make my project more complete and user friendly. This will be shown through my implementation of a     
- database connected via php, which will store usersnames and high scores. In addition, I will add a user authentication system, where users will need to login to   
+ database connected via php, which will store usernames and high scores. In addition, I will add a user authentication system, where users will need to login to   
  access their account. These improvements will make the game more interactive and personalised, whilst also introducing some basic security and data principles.
  
 </p>
