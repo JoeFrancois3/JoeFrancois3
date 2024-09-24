@@ -21,7 +21,8 @@
   <h4 align="left">CRUD WinForms App (C# & SQL Server)</h4>
   
   
-  <h5>Link to project</h5>
+  <h5><a href="https://github.com/JoeFrancois3/CRUD-WinForms-App" target="_blank">Link to project</a></h5>
+
   
   <h5>Description:</h5> A desktop application built with C# and WinForms for managing a simple CRUD interface with SQL Server.
   <h5>Technologies:</h5> C#, WinForms, SQL Server
