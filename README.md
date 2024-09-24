@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">I'm a passionate software engineering student at Sheffield Hallam University, currently in my second year. My primary focus is on developing robust applications with C# and JavaScript. I enjoy solving challenging problems and learning new technologies.</h3>
 
+- 🔭 I’m currently working on **I'm proving my Javascript skills**
+
 - 🌱 I’m currently learning **PLC Ladder Logic**
 
 - 📫 How to reach me **joefrancois03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/joefrancois56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joefrancois56" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joe-francois-38a633283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joe francois" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/joefrancois" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joefrancois" height="30" width="40" /></a>
 </p>
 
