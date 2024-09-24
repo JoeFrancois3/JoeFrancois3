@@ -38,7 +38,8 @@
   <h4 align="left">Word Scramble Game (JavaScript, Multi-Difficulty Levels)</h4>
 
   
-  <h5>Link to project</h5>
+  <h5><a href="https://github.com/JoeFrancois3/WordGame-Js" target="_blank">Link to project</a></h5>
+
   
   <h5>Description:</h5> A browser-based word scramble game with varying difficulty levels.
   <h5>Technologies:</h5> JavaScript, HTML5, CSS3
