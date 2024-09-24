@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
-<h3 align="center">Im a passionate software engineer studying at Sheffield Hallam University</h3>
+<h3 align="center">I'm a passionate software engineering student at Sheffield Hallam University, currently in my second year. My primary focus is on developing robust applications with C# and JavaScript. I enjoy solving challenging problems and learning new technologies.</h3>
 
-- 🌱 I’m currently learning **PLC Ladder Logic, SCADA**
+- 🌱 I’m currently learning **PLC Ladder Logic**
 
 - 📫 How to reach me **joefrancois03@gmail.com**
 
