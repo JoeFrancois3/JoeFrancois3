@@ -54,7 +54,8 @@
   <h4 align="left">Hospital Data Management Project: WinForms App (C#)</h4>
 
   
-  <h5>Link to project</h5>
+  <h5><a href="https://github.com/JoeFrancois3/Hospital-WinForms-App" target="_blank">Link to project</a></h5>
+
   
   <h5>Description:</h5> A C# WinForms application that I built during my first year of university.
   <h5>Technologies:</h5> C#, WinForms, SQLite
